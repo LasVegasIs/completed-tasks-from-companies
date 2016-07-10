@@ -1,0 +1,9 @@
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\StructData\StructData\bin\Debug\StructData.exe.config
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\StructData\StructData\bin\Debug\StructData.exe
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\StructData\StructData\bin\Debug\StructData.pdb
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\StructData\StructData\obj\Debug\StructData.csprojResolveAssemblyReference.cache
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\StructData\StructData\obj\Debug\StructData.exe
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\StructData\StructData\obj\Debug\StructData.pdb
+j:\#Interview\StructData\StructData\bin\Debug\StructData.exe.config
+j:\#Interview\StructData\StructData\obj\Debug\StructData.exe
+j:\#Interview\StructData\StructData\obj\Debug\StructData.pdb

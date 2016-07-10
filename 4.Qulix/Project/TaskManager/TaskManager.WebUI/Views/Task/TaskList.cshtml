@@ -1,0 +1,39 @@
+﻿@model TaskManager.BusinessEntities.Collections.TaskCollection
+
+@{
+    ViewBag.Title = "Task List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="Grid">
+    <tr><th colspan="10"><h1 id="header">@ViewBag.Title</h1></th></tr>
+    <tr>
+        <th>Name</th>
+        <th>Workload</th>
+        <th>Date Start</th>
+        <th>Date End</th>
+        <th>Second Name</th>
+        <th>Name</th>
+        <th>Patronimic</th>
+        <th>State</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.ActionLink(item.Name, "Edit", new { taskId = item.ID })</td>
+            <td>@Html.DisplayFor(modelItem => item.Workload)</td>
+            <td>@Html.DisplayFor(modelItem => item.DateStart)</td>
+            <td>@Html.DisplayFor(modelItem => item.DateEnd)</td>
+            <td>@Html.DisplayFor(modelItem => item.Exec.SecondName)</td>
+            <td>@Html.DisplayFor(modelItem => item.Exec.FirstName)</td>
+            <td>@Html.DisplayFor(modelItem => item.Exec.Patronimic)</td>
+            <td>@Html.DisplayFor(modelItem => item.Stat.Name)</td>
+
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { taskId = item.ID })
+            </td>
+        </tr>
+
+    }
+</table>
+<input type="button" value="Add a new Task" onclick="window.location='@Url.Action("Create", "Task")';return false" />

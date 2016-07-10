@@ -1,0 +1,6 @@
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\FastSort\FastSort\bin\Debug\FastSort.exe.config
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\FastSort\FastSort\obj\Debug\FastSort.csprojResolveAssemblyReference.cache
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\FastSort\FastSort\bin\Debug\FastSort.exe
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\FastSort\FastSort\bin\Debug\FastSort.pdb
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\FastSort\FastSort\obj\Debug\FastSort.exe
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\FastSort\FastSort\obj\Debug\FastSort.pdb

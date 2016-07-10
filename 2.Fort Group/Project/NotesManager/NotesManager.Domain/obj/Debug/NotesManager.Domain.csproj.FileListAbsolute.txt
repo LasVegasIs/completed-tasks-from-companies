@@ -1,0 +1,30 @@
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.Domain\bin\Debug\NotesManager.Domain.dll.config
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.Domain\bin\Debug\NotesManager.Domain.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.Domain\bin\Debug\NotesManager.Domain.pdb
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.SqlServer.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.SqlServer.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.Domain\obj\Debug\NotesManager.Domain.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.Domain\obj\Debug\NotesManager.Domain.pdb
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.Domain\obj\Debug\NotesManager.Domain.csprojResolveAssemblyReference.cache
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.Domain\bin\Debug\NotesManager.Domain.dll.config
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.Domain\bin\Debug\NotesManager.Domain.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.Domain\bin\Debug\NotesManager.Domain.pdb
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.Domain\obj\Debug\NotesManager.Domain.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.Domain\obj\Debug\NotesManager.Domain.pdb
+D:\test\NotesManager\NotesManager.Domain\obj\Debug\NotesManager.Domain.csprojResolveAssemblyReference.cache
+D:\test\NotesManager\NotesManager.Domain\obj\Debug\NotesManager.Domain.dll
+D:\test\NotesManager\NotesManager.Domain\obj\Debug\NotesManager.Domain.pdb
+D:\test\NotesManager\NotesManager.Domain\bin\Debug\NotesManager.Domain.dll.config
+D:\test\NotesManager\NotesManager.Domain\bin\Debug\NotesManager.Domain.dll
+D:\test\NotesManager\NotesManager.Domain\bin\Debug\NotesManager.Domain.pdb
+D:\test\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.dll
+D:\test\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\test\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.xml
+D:\test\NotesManager\NotesManager.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.Domain\obj\Debug\NotesManager.Domain.csprojResolveAssemblyReference.cache

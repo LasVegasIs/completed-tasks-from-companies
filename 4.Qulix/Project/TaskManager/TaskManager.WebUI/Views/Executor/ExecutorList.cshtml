@@ -1,0 +1,30 @@
+﻿@model TaskManager.BusinessEntities.Collections.ExecutorCollection
+
+@{
+    ViewBag.Title = "Executor List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<table class="Grid">
+    <tr><th colspan="7"><h1 id="header">@ViewBag.Title</h1></th></tr>
+    <tr>       
+        <th>Second Name</th>
+        <th>Name</th>       
+        <th>Patronimic</th>
+
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@Html.ActionLink(item.SecondName, "Edit", new { ExecutorId = item.ID })</td>
+            <td>@Html.DisplayFor(modelItem => item.FirstName)</td>           
+            <td>@Html.DisplayFor(modelItem => item.Patronimic)</td>        
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { ExecutorId = item.ID })
+            </td>
+        </tr>
+
+    }
+</table>
+<input type="button" value="Add a new Task" onclick="window.location='@Url.Action("Create", "Executor")';return false" />

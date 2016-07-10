@@ -1,0 +1,69 @@
+﻿@model IEnumerable<NotesManager.WebUI.Models.NoteViewModel>
+
+@{
+    ViewBag.Title = "Notes List";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+  <div class="LogOut">@ViewBag.UserName  <input type="button" value="Log Out" onclick="window.location='@Url.Action("LogOut", "Account")'; return false" /></div>
+
+   <table class="Grid">
+    <tr><th colspan="7"><h1 id="header">Notes List</h1></th></tr>
+    <tr>
+        <th>NOTE</th>
+        <th>MAIN TEXT</th>
+        <th>THOUGHT</th>
+        <th>IDEA</th>
+        <th>REMARK</th>
+        <th>COMMENT</th>
+@if (ViewBag.CanActivateNote)
+
+{ 
+        <th>ACTIVE ROW</th>
+}
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            @if (ViewBag.CanUpdateNote)
+            { 
+             <td>@Html.ActionLink(item.Note, "Edit", new { noteId = item.Id })</td>
+            }
+            else
+            { 
+             <td>@Html.DisplayFor(modelItem => item.Note)</td>
+            }
+    
+            <td>@Html.DisplayFor(modelItem => item.MainText)</td>
+            <td>@Html.DisplayFor(modelItem => item.Thought)</td>
+            <td>@Html.DisplayFor(modelItem => item.Idea)</td>
+            <td>@Html.DisplayFor(modelItem => item.Remark)</td>
+            <td>@Html.DisplayFor(modelItem => item.Comment)</td>
+            @if (ViewBag.CanActivateNote)
+            { 
+            <td>@Html.DisplayFor(modelItem => item.Active)</td>
+            }
+
+            <td>
+            @if (ViewBag.CanDeleteNote)
+            { 
+                if (ViewBag.CanActivateNote)
+                {
+                    @Html.ActionLink("Delete", "Delete", "Note", new { noteId = item.Id }, new { onclick = "return confirm('Are you sure that you want to delete this note forever?')" })               
+                }
+                else
+                    {
+                      @Html.ActionLink("Delete", "Delete", new { noteId = item.Id })
+                    }         
+            }    
+               
+            </td>
+        </tr>
+
+    }
+</table>
+@if (ViewBag.CanInsertNote)
+{ 
+<input type="button" value="Add a new Note" onclick="window.location='@Url.Action("Create", "Note")';return false" />
+} 
+
+

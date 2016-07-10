@@ -1,0 +1,45 @@
+﻿@model IEnumerable<GoodsStore.Domain.Shop>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+        
+    <title>List</title>
+    <script type="text/javascript" src="~/Scripts/jquery-2.2.0.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>    
+</head>
+<body>
+   @*<p id="header">sdsad</p>*@
+    <table cellspacing="0" cellpadding="5" align="center">
+        <tr><th colspan="4"><h1 id="header">Список магазинов</h1></th></tr>
+        <tr><th>Наименование</th><th>Адрес</th><th>Режим работы</th><th>Ссылка на товары</th></tr>
+        @foreach (var g in Model)
+        {
+            <tr>
+                <td>@g.Name</td>
+                <td>@g.Adress</td>
+                <td>@g.Operation</td>
+                <td>
+                    @Ajax.ActionLink("Список товаров",
+                                                "ProductsByShop", "Shop", new { id_shop = g.ShopID, nameShop = g.Name },
+                                                    new AjaxOptions
+                                                    {
+                                                        UpdateTargetId = "ProductsByShopResults",
+                                                        HttpMethod = "GET",
+                                                        InsertionMode = InsertionMode.Replace
+                                                    })
+                </td>                
+            </tr>
+
+        }
+    </table>
+    <hr />
+    <div id="ProductsByShopResults"> </div>                
+</body>
+</html>

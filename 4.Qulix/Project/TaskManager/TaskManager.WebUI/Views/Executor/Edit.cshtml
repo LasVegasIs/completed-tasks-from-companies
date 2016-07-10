@@ -1,0 +1,36 @@
+﻿@model TaskManager.WebUI.Models.ExecutorEditViewModel
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Edit", "Executor"))
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        @Html.HiddenFor(Model => Model.ID)
+        <p>
+            <b>@Html.LabelFor(Model => Model.SecondName)</b>
+            <br />
+            @Html.EditorFor(Model => Model.SecondName)
+            @Html.ValidationMessageFor(model => model.SecondName)
+        </p>
+        <p>
+            <b>@Html.LabelFor(Model => Model.FirstName)</b>
+            <br />
+            @Html.EditorFor(Model => Model.FirstName)
+            @Html.ValidationMessageFor(model => model.FirstName)
+        </p>       
+        <p>
+            <b>@Html.LabelFor(Model => Model.Patronimic)</b>
+            <br />
+            @Html.EditorFor(Model => Model.Patronimic)
+            @Html.ValidationMessageFor(model => model.Patronimic)
+        </p>       
+
+        <input type="submit" value="Save" />
+        <input type="button" value="Cancel" onclick="window.location='@Url.Action("ExecutorList", "Executor")';return false" />
+    </fieldset>
+}

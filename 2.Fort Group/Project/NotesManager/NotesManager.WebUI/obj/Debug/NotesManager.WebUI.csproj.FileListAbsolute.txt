@@ -1,0 +1,100 @@
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\obj\Debug\NotesManager.WebUI.csprojResolveAssemblyReference.cache
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\NotesManager.WebUI.dll.config
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\NotesManager.WebUI.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\NotesManager.WebUI.pdb
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\Antlr3.Runtime.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\Microsoft.Web.Infrastructure.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\Newtonsoft.Json.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\Ninject.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\NotesManager.Domain.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Net.Http.Formatting.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Http.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Http.WebHost.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Mvc.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Optimization.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Providers.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Razor.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Deployment.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Razor.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\WebGrease.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\EntityFramework.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\NotesManager.Domain.pdb
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\Ninject.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\Newtonsoft.Json.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Net.Http.Formatting.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Http.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Http.WebHost.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Mvc.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Razor.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Deployment.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Razor.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\bin\EntityFramework.xml
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\obj\Debug\NotesManager.WebUI.dll
+d:\#Работа\#Tasks from company\Forte Group\Project\NotesManager\NotesManager.WebUI\obj\Debug\NotesManager.WebUI.pdb
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\NotesManager.WebUI.dll.config
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\NotesManager.WebUI.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\NotesManager.WebUI.pdb
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\Antlr3.Runtime.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\Newtonsoft.Json.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\Ninject.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\NotesManager.Domain.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Net.Http.Formatting.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Http.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Http.WebHost.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Mvc.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Optimization.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Razor.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\WebGrease.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\EntityFramework.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\NotesManager.Domain.pdb
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\Ninject.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\Newtonsoft.Json.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Net.Http.Formatting.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Http.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Http.WebHost.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Mvc.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.Razor.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\bin\EntityFramework.xml
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\obj\Debug\NotesManager.WebUI.csprojResolveAssemblyReference.cache
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\obj\Debug\NotesManager.WebUI.dll
+D:\#Работа\#Tasks from company\fg\Project\NotesManager\NotesManager.WebUI\obj\Debug\NotesManager.WebUI.pdb
+D:\test\NotesManager\NotesManager.WebUI\bin\NotesManager.WebUI.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\NotesManager.WebUI.pdb
+D:\test\NotesManager\NotesManager.WebUI\bin\Antlr3.Runtime.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\Newtonsoft.Json.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\Ninject.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\NotesManager.Domain.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.Mvc.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.Optimization.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.Providers.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.Razor.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\WebGrease.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\EntityFramework.dll
+D:\test\NotesManager\NotesManager.WebUI\bin\NotesManager.Domain.pdb
+D:\test\NotesManager\NotesManager.WebUI\bin\Ninject.xml
+D:\test\NotesManager\NotesManager.WebUI\bin\Newtonsoft.Json.xml
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.Mvc.xml
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.Razor.xml
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.xml
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\test\NotesManager\NotesManager.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\test\NotesManager\NotesManager.WebUI\bin\EntityFramework.xml
+D:\test\NotesManager\NotesManager.WebUI\obj\Debug\NotesManager.WebUI.csprojResolveAssemblyReference.cache
+D:\test\NotesManager\NotesManager.WebUI\obj\Debug\NotesManager.WebUI.dll
+D:\test\NotesManager\NotesManager.WebUI\obj\Debug\NotesManager.WebUI.pdb

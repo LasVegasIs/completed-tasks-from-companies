@@ -1,0 +1,15 @@
+﻿@model IEnumerable<GoodsStore.Domain.Product>
+<div id="ProductsByShop">
+    <table cellspacing="0" cellpadding="5" align="center">
+        <tr><th colspan=" 2"><h2 id="header">Список товаров @ViewBag.NameShop</h2></th></tr>
+        <tr><th align="left">Наименование</th><th>Описание</th></tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+            </tr>
+        }
+    </table>
+
+</div>

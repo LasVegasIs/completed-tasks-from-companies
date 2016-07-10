@@ -1,0 +1,53 @@
+﻿@model TaskManager.WebUI.Models.TaskEditViewModel
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm("Edit", "Task"))
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        @Html.HiddenFor(Model => Model.ID)
+        <p>
+            <b>@Html.LabelFor(Model => Model.Name)</b>
+            <br />
+            @Html.EditorFor(Model => Model.Name)
+            @Html.ValidationMessageFor(model => model.Name)
+        </p>
+        <p>
+            <b>@Html.LabelFor(Model => Model.Workload)</b>
+            <br />
+            @Html.EditorFor(Model => Model.Workload)
+            @Html.ValidationMessageFor(model => model.Workload)
+        </p>
+        <p>
+            <b>@Html.LabelFor(Model => Model.DateStart)</b>
+            <br />
+            @Html.EditorFor(Model => Model.DateStart)
+            @Html.ValidationMessageFor(model => model.DateStart)
+
+        </p>
+        <p>
+            <b> @Html.LabelFor(Model => Model.DateEnd)</b>
+            <br />
+            @Html.EditorFor(Model => Model.DateEnd)
+            @Html.ValidationMessageFor(model => model.DateEnd)
+        </p>
+        <p>
+            <b>@Html.Label("Executor")</b>
+            <br />
+            @Html.DropDownListFor(Model => Model.IdExecutor, ViewBag.Executors as SelectList)
+        </p>
+        <p>
+            <b>@Html.Label("State")</b>
+            <br />
+            @Html.DropDownListFor(Model => Model.IdState, ViewBag.States as SelectList)
+        </p>      
+       
+        <input type="submit" value="Save" />
+        <input type="button" value="Cancel" onclick="window.location='@Url.Action("TaskList", "Task")';return false" />
+    </fieldset>
+}

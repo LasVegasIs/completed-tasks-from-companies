@@ -1,0 +1,58 @@
+﻿@model NotesManager.WebUI.Models.NoteViewModel
+
+@{    
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Edit", "Note"))
+{
+    @Html.ValidationSummary(true)
+    
+    <fieldset> 
+        @Html.HiddenFor(Model => Model.Id)       
+        <p>
+            <b>@Html.LabelFor(Model => Model.Note)</b>
+            <br />
+            @Html.EditorFor(Model => Model.Note)
+        </p>
+        <p>
+           <b>@Html.LabelFor(Model => Model.MainText)</b>
+            <br />
+            @Html.EditorFor(Model => Model.MainText)
+        </p>
+        <p>
+            <b>@Html.LabelFor(Model => Model.Thought)</b>
+            <br />
+            @Html.EditorFor(Model => Model.Thought)
+        </p>
+        <p>
+            <b> @Html.LabelFor(Model => Model.Idea)</b>
+            <br />
+            @Html.EditorFor(Model => Model.Idea)
+        </p>
+        <p>
+            <b>@Html.LabelFor(Model => Model.Remark)</b> 
+            <br />
+            @Html.EditorFor(Model => Model.Remark)
+        </p>
+        <p>
+            <b>@Html.LabelFor(Model => Model.Comment)</b>
+            <br />
+            @Html.EditorFor(Model => Model.Comment)
+        </p>
+       @if (ViewBag.CanActivateNote ?? false )
+         {
+        <p>
+            <b>@Html.LabelFor(Model => Model.Active)</b>
+            <br />
+            @Html.EditorFor(Model => Model.Active)
+        </p>
+          }
+        <input type="submit" value="Save" />
+        <input type="button" value="Cancel" onclick="window.location='@Url.Action("List", "Note")';return false" />
+    </fieldset>
+               
+                }
+

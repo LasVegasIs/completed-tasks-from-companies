@@ -1,0 +1,9 @@
+D:\#Работа\#Tasks from company\Qulix\Project\TaskManager\TaskManager.Bll\obj\Debug\TaskManager.Bll.csprojResolveAssemblyReference.cache
+D:\#Работа\#Tasks from company\Qulix\Project\TaskManager\TaskManager.Bll\bin\Debug\TaskManager.Bll.dll
+D:\#Работа\#Tasks from company\Qulix\Project\TaskManager\TaskManager.Bll\bin\Debug\TaskManager.Bll.pdb
+D:\#Работа\#Tasks from company\Qulix\Project\TaskManager\TaskManager.Bll\bin\Debug\TaskManager.BusinessEntities.dll
+D:\#Работа\#Tasks from company\Qulix\Project\TaskManager\TaskManager.Bll\bin\Debug\TaskManager.Domain.dll
+D:\#Работа\#Tasks from company\Qulix\Project\TaskManager\TaskManager.Bll\bin\Debug\TaskManager.BusinessEntities.pdb
+D:\#Работа\#Tasks from company\Qulix\Project\TaskManager\TaskManager.Bll\bin\Debug\TaskManager.Domain.pdb
+D:\#Работа\#Tasks from company\Qulix\Project\TaskManager\TaskManager.Bll\obj\Debug\TaskManager.Bll.dll
+D:\#Работа\#Tasks from company\Qulix\Project\TaskManager\TaskManager.Bll\obj\Debug\TaskManager.Bll.pdb

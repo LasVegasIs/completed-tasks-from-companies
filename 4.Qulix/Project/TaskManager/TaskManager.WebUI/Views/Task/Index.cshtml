@@ -1,0 +1,10 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Main menu</h2>
+Tasks:@Html.ActionLink("Task List", "TaskList")<br>
+Persons:@Html.ActionLink("Executor List", "ExecutorList", "Executor")
+
+

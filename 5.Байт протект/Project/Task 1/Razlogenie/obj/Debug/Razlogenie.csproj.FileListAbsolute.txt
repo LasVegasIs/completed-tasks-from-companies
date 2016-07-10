@@ -1,0 +1,6 @@
+d:\#Работа\#MyProjects\#My Prj\ConsoleApp\Razlogenie\Razlogenie\bin\Debug\Razlogenie.exe.config
+d:\#Работа\#MyProjects\#My Prj\ConsoleApp\Razlogenie\Razlogenie\bin\Debug\Razlogenie.exe
+d:\#Работа\#MyProjects\#My Prj\ConsoleApp\Razlogenie\Razlogenie\bin\Debug\Razlogenie.pdb
+d:\#Работа\#MyProjects\#My Prj\ConsoleApp\Razlogenie\Razlogenie\obj\Debug\Razlogenie.csprojResolveAssemblyReference.cache
+d:\#Работа\#MyProjects\#My Prj\ConsoleApp\Razlogenie\Razlogenie\obj\Debug\Razlogenie.exe
+d:\#Работа\#MyProjects\#My Prj\ConsoleApp\Razlogenie\Razlogenie\obj\Debug\Razlogenie.pdb

@@ -1,0 +1,33 @@
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\TasksFromCompanys\Belvalex\KM\KeysManager\KeysManager.UI\bin\Debug\KeysManager.UI.exe.config
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\TasksFromCompanys\Belvalex\KM\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.exe
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\TasksFromCompanys\Belvalex\KM\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.pdb
+D:\#Работа\#MyProjects\#My Prj\OOP\ForSobes\TasksFromCompanys\Belvalex\KM\KeysManager\KeysManager.UI\bin\Debug\KeysManager.UI.exe.config
+D:\#Работа\#MyProjects\#My Prj\OOP\ForSobes\TasksFromCompanys\Belvalex\KM\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.exe
+D:\#Работа\#MyProjects\#My Prj\OOP\ForSobes\TasksFromCompanys\Belvalex\KM\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.pdb
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\bin\Debug\KeysManager.UI.exe.config
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.exe
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.pdb
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\bin\Debug\KeysManager.UI.exe
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\bin\Debug\KeysManager.UI.pdb
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\bin\Debug\EntityFramework.dll
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\bin\Debug\KeysManager.Domain.dll
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\bin\Debug\KeysManager.Domain.pdb
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\bin\Debug\EntityFramework.xml
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.csprojResolveAssemblyReference.cache
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.fmMain.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmChooseSomeSub.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmDevices.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmEditDevice.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmEditGroup.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmEditKeyList.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmEditOrganization.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.FmEditUser.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmGroups.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmKeyList.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmLoginForm.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmOrganizations.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.MainForms.fmUsers.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.Properties.Resources.resources
+D:\#Работа\#Tasks from company\Бевалекс\KeysManager\KeysManager.UI\obj\Debug\KeysManager.UI.csproj.GenerateResource.Cache

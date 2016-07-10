@@ -1,0 +1,184 @@
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.WebUI.dll.config
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.WebUI.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.WebUI.pdb
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\Antlr3.Runtime.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\EntityFramework.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.Domain.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\Moq.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\Newtonsoft.Json.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\Ninject.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.Http.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.Mvc.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.Optimization.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.Providers.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.Razor.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\WebGrease.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.Domain.pdb
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\Moq.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\Ninject.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\EntityFramework.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\Newtonsoft.Json.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.Http.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.Mvc.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.Razor.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.csprojResolveAssemblyReference.cache
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.pdb
+D:\test\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.WebUI.dll.config
+D:\test\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.WebUI.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.WebUI.pdb
+D:\test\GoodsStore\GoodsStore.WebUI\bin\Antlr3.Runtime.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.Domain.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\Moq.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\Newtonsoft.Json.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\Ninject.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.Mvc.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.Optimization.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.Providers.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.Razor.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\WebGrease.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\EntityFramework.dll
+D:\test\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.Domain.pdb
+D:\test\GoodsStore\GoodsStore.WebUI\bin\Moq.xml
+D:\test\GoodsStore\GoodsStore.WebUI\bin\Ninject.xml
+D:\test\GoodsStore\GoodsStore.WebUI\bin\Newtonsoft.Json.xml
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.Mvc.xml
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.Razor.xml
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.xml
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\test\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\test\GoodsStore\GoodsStore.WebUI\bin\EntityFramework.xml
+D:\test\GoodsStore\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.csprojResolveAssemblyReference.cache
+D:\test\GoodsStore\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.dll
+D:\test\GoodsStore\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.pdb
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\GoodsStore.WebUI.dll.config
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\GoodsStore.WebUI.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\GoodsStore.WebUI.pdb
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\Antlr3.Runtime.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\GoodsStore.Domain.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\Moq.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\Newtonsoft.Json.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\Ninject.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.Http.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.Mvc.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.Optimization.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.Providers.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.Razor.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.WebPages.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\WebGrease.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\EntityFramework.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\GoodsStore.Domain.pdb
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\Moq.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\Ninject.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\Newtonsoft.Json.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.Http.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.Mvc.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.Razor.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.WebPages.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\bin\EntityFramework.xml
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.csprojResolveAssemblyReference.cache
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.dll
+D:\#Работа\#MVC\#My Prj\OOP\ForSobes\GoodsStore\GoodsStore2\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.pdb
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.WebUI.dll.config
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.WebUI.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.WebUI.pdb
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\Antlr3.Runtime.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.Domain.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\Moq.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\Newtonsoft.Json.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\Ninject.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.Http.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.Mvc.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.Optimization.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.Providers.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.Razor.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\WebGrease.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\EntityFramework.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\GoodsStore.Domain.pdb
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\Moq.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\Ninject.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\Newtonsoft.Json.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.Http.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.Mvc.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.Razor.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\bin\EntityFramework.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.csprojResolveAssemblyReference.cache
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStore\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.pdb
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\GoodsStore.WebUI.dll.config
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\GoodsStore.WebUI.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\GoodsStore.WebUI.pdb
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\Antlr3.Runtime.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\GoodsStore.Domain.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\Moq.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\Newtonsoft.Json.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\Ninject.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Net.Http.Formatting.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.Http.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.Http.WebHost.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.Mvc.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.Optimization.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.Providers.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.Razor.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.WebPages.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\WebGrease.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\EntityFramework.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\GoodsStore.Domain.pdb
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\Moq.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\Ninject.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\Newtonsoft.Json.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Net.Http.Formatting.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.Http.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.Http.WebHost.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.Mvc.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.Razor.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.WebPages.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\bin\EntityFramework.xml
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.csprojResolveAssemblyReference.cache
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.dll
+D:\#Работа\#Tasks from company\LightPoint\#Solutions\GoodsStoreSolution\GoodsStore.WebUI\obj\Debug\GoodsStore.WebUI.pdb
